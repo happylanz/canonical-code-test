@@ -1,6 +1,6 @@
 import moment from "moment";
 import { IPost } from "../App.interface";
-import { ICard } from "../Card/Card.interface";
+import { ICard } from "../components/Card/Card.interface";
 import Term from "../constants/term";
 
 const POST_URL =

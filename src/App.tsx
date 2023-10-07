@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
-import Card from "./Card/Card";
-import { ICard } from "./Card/Card.interface";
+import Card from "./components/Card/Card";
+import { ICard } from "./components/Card/Card.interface";
 import { fetchPosts } from "./services/post";
 import "./App.styles.scss";
 
