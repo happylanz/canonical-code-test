@@ -1,0 +1,8 @@
+@import "node_modules/vanilla-framework/scss/vanilla";
+
+@include vanilla;
+
+body {
+  color: $color-dark;
+  margin-top: 1rem;
+}
